@@ -17,7 +17,7 @@ export const products = [
   {
     name: 'Phone 11',
     price: 1299,
-    description: 'The new one'
+    description: 'The new phone with 3 back cameras'
   }
 ];
 
